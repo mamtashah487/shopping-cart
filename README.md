@@ -63,5 +63,5 @@ Add local storage to save count
 Improve button styling
 
 Add animations
+![1000016748](https://github.com/user-attachments/assets/992a8e34-45f3-435f-ab5b-5368cb04ad09)
 
-![Uploading shopping cart image.png…]()
